@@ -1,0 +1,18 @@
+.photo{	
+	border-style:solid;
+}
+.photo img{
+	border-style: solid;
+}
+.contact{
+	background-color: black;
+}
+.skills{
+	background-color: green;
+}
+.bottom{
+	background-color: yellow;
+}
+.Info{
+	background-color: orange;
+}
